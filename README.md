@@ -1,6 +1,6 @@
 # 7330-final
-Dear professor:
-  I kindly wish for a good score.
-  All the best
-Su Jialin
+Dear professor:</br>
+  I kindly wish for a good score.</br>
+  All the best</br>
+Su Jialin</br>
 2024.12.24
